@@ -34,7 +34,6 @@ Objects {
   ChildIds: 285913297831124359
   ChildIds: 16941485758876812317
   ChildIds: 9686328514584690503
-  ChildIds: 2003758870716421406
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -44,46 +43,6 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 2003758870716421406
-  Name: "Scoreboard"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3772104818986187317
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Scoreboard"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 1485
-            Y: -3148.50293
-            Z: -559.792
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 18258133025305709493
-    }
   }
 }
 Objects {
@@ -475,7 +434,7 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -37.2019043
+            Yaw: -19.5551453
           }
         }
       }
@@ -495,7 +454,7 @@ Objects {
       Z: -630.351196
     }
     Rotation {
-      Yaw: -10.7058716
+      Yaw: 26.2741699
     }
     Scale {
       X: 1
@@ -912,12 +871,6 @@ Objects {
   }
   ParentId: 4781671109827199097
   ChildIds: 9599391928446201010
-  ChildIds: 15024337422828736532
-  ChildIds: 13755000914209209271
-  ChildIds: 13446256431291117266
-  ChildIds: 12847820508143477712
-  ChildIds: 6802734800914223652
-  ChildIds: 12402502132326940019
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -926,330 +879,6 @@ Objects {
   }
   Folder {
     IsGroup: true
-  }
-}
-Objects {
-  Id: 12402502132326940019
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 106.733612
-            Y: -3515.43384
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -115.11084
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
-  }
-}
-Objects {
-  Id: 6802734800914223652
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 879.487793
-            Y: -3461.99976
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 143.745316
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
-  }
-}
-Objects {
-  Id: 12847820508143477712
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 350
-            Y: -3260.08276
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -172.54361
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
-  }
-}
-Objects {
-  Id: 13446256431291117266
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 221.267181
-            Y: -3350.85376
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -144.731735
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
-  }
-}
-Objects {
-  Id: 13755000914209209271
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 600
-            Y: -3258.10059
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: -174.719131
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
-  }
-}
-Objects {
-  Id: 15024337422828736532
-  Name: "Sitable Folding Chair"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 13865123339073570287
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 15378213562353625405
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Sitable Folding Chair"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: 746.070801
-            Y: -3328.3418
-            Z: -630.351318
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
-            Yaw: 163.779984
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11670641074993543747
-    }
   }
 }
 Objects {
@@ -1264,10 +893,10 @@ Objects {
   }
   ParentId: 13865123339073570287
   Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
+    Value: "mc:ecollisionsetting:forceon"
   }
   Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
+    Value: "mc:evisibilitysetting:forceon"
   }
   TemplateInstance {
     ParameterOverrideMap {
@@ -1288,14 +917,6 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-          }
-        }
-        Overrides {
-          Name: "Scale"
-          Vector {
-            X: 1
-            Y: 1
-            Z: 1
           }
         }
       }

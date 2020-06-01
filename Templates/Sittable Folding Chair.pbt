@@ -7,21 +7,18 @@ Assets {
       RootId: 16360099004481151197
       Objects {
         Id: 16360099004481151197
-        Name: "Group"
+        Name: "Sittable Folding Chair"
         Transform {
-          Location {
-          }
-          Rotation {
-          }
           Scale {
             X: 1
             Y: 1
             Z: 1
           }
         }
+        ParentId: 13865123339073570287
         ChildIds: 2159998438797793606
-        ChildIds: 6391263277793638506
         ChildIds: 11747342324576246180
+        ChildIds: 18346332074979041195
         Collidable_v2 {
           Value: "mc:ecollisionsetting:forceon"
         }
@@ -857,45 +854,6 @@ Assets {
         }
       }
       Objects {
-        Id: 6391263277793638506
-        Name: "SitInChairScript"
-        Transform {
-          Location {
-            X: 1.24462891
-            Y: 51.770752
-            Z: 47.130127
-          }
-          Rotation {
-            Yaw: 90.0000153
-          }
-          Scale {
-            X: 1
-            Y: 1
-            Z: 1
-          }
-        }
-        ParentId: 16360099004481151197
-        UnregisteredParameters {
-          Overrides {
-            Name: "cs:HitBox"
-            ObjectReference {
-              SubObjectId: 11747342324576246180
-            }
-          }
-        }
-        Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
-        }
-        Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
-        }
-        Script {
-          ScriptAsset {
-            Id: 9131333075699241198
-          }
-        }
-      }
-      Objects {
         Id: 11747342324576246180
         Name: "HitBox"
         Transform {
@@ -930,6 +888,45 @@ Assets {
           }
           TriggerShape_v2 {
             Value: "mc:etriggershape:box"
+          }
+        }
+      }
+      Objects {
+        Id: 18346332074979041195
+        Name: "SitInChair"
+        Transform {
+          Location {
+            X: 1.24462891
+            Y: 51.770752
+            Z: 47.130127
+          }
+          Rotation {
+            Yaw: 90.0000153
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        ParentId: 16360099004481151197
+        UnregisteredParameters {
+          Overrides {
+            Name: "cs:HitBox"
+            ObjectReference {
+              SubObjectId: 11747342324576246180
+            }
+          }
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Script {
+          ScriptAsset {
+            Id: 13059517329294012562
           }
         }
       }
