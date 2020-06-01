@@ -8,6 +8,24 @@ Assets {
   }
 }
 Assets {
+  Id: 17874989041036741677
+  Name: "Pipe - Half Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_003"
+  }
+}
+Assets {
+  Id: 17827546953996232664
+  Name: "Crescent - 03"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_crescent_003"
+  }
+}
+Assets {
   Id: 17757758034467358373
   Name: "Text 03: A"
   PlatformAssetType: 1
@@ -26,12 +44,39 @@ Assets {
   }
 }
 Assets {
+  Id: 17694635052062672366
+  Name: "Roof Asphalt 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_roof_asphalt_002_uv"
+  }
+}
+Assets {
+  Id: 17609149353171719671
+  Name: "Cube - bottom aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_001"
+  }
+}
+Assets {
   Id: 17303309681098839925
   Name: "Whitebox Door 01"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_door_001"
+  }
+}
+Assets {
+  Id: 17237710925999103866
+  Name: "Cabinet Door - Upper Full"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_cabinet_door_full_001"
   }
 }
 Assets {
@@ -107,6 +152,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16132958878921067135
+  Name: "Sign Bracket - Square"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_signbracket_square_001"
+  }
+}
+Assets {
   Id: 15784135859905454649
   Name: "Human Gal"
   PlatformAssetType: 17
@@ -179,12 +233,12 @@ Assets {
   }
 }
 Assets {
-  Id: 14743840888973958623
-  Name: "Color Grading Post Process"
-  PlatformAssetType: 20
+  Id: 14615075654610649595
+  Name: "Plane 1m - Two Sided"
+  PlatformAssetType: 1
   PrimaryAsset {
-    AssetType: "BlueprintAssetRef"
-    AssetId: "fxbp_post_process_color_grading"
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_1m_002"
   }
 }
 Assets {
@@ -194,6 +248,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_gen_asphault_001"
+  }
+}
+Assets {
+  Id: 14272986521887390608
+  Name: "Decal Road Sign Symbols"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_roadsigns_001"
   }
 }
 Assets {
@@ -242,6 +305,15 @@ Assets {
   }
 }
 Assets {
+  Id: 13988815847919191563
+  Name: "Scifi Panel 1x3m Angled Left"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_panel_1x3m_angledL_001"
+  }
+}
+Assets {
   Id: 13552935493036073585
   Name: "Metal Diamond Plates 01"
   PlatformAssetType: 2
@@ -257,6 +329,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F1_Text_028"
+  }
+}
+Assets {
+  Id: 13187381767043287029
+  Name: "Cube - Chamfered Small Polished"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cube_hq_003"
   }
 }
 Assets {
@@ -329,6 +410,24 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_002"
+  }
+}
+Assets {
+  Id: 11941692555528144469
+  Name: "Street Sign - Octagon"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_street-sign_octagon_001"
+  }
+}
+Assets {
+  Id: 11866697634738794324
+  Name: "Metal Basic 01"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_metal_basic_001"
   }
 }
 Assets {
@@ -422,6 +521,15 @@ Assets {
   }
 }
 Assets {
+  Id: 11228039791877073393
+  Name: "Wedge - Concave"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_curved_concave_001"
+  }
+}
+Assets {
   Id: 10928717001540809199
   Name: "Text 01: 8"
   PlatformAssetType: 1
@@ -455,6 +563,15 @@ Assets {
   PrimaryAsset {
     AssetType: "MaterialAssetRef"
     AssetId: "mi_bone_raw_001_uv_ref"
+  }
+}
+Assets {
+  Id: 9868808447480500953
+  Name: "Wedge"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_wedge_001"
   }
 }
 Assets {
@@ -503,6 +620,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8229634255301174846
+  Name: "Pipe - 4-Sided Thin"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_4_sided_thin_001"
+  }
+}
+Assets {
   Id: 8087215044979380443
   Name: "Text 01: 3"
   PlatformAssetType: 1
@@ -518,6 +644,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cylinder_rounded_002"
+  }
+}
+Assets {
+  Id: 7939197338146006712
+  Name: "Pipe - Quarter Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_quarter-pipe_003"
   }
 }
 Assets {
@@ -539,6 +674,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7554798829825408079
+  Name: "Road Edge"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_road_edge_straight_001"
+  }
+}
+Assets {
   Id: 7138879705433799790
   Name: "Computer Stand"
   PlatformAssetType: 1
@@ -554,6 +698,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cube_rounded_002"
+  }
+}
+Assets {
+  Id: 6832216592600465421
+  Name: "Prism - 6-Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_prism_hexagon_001"
   }
 }
 Assets {
@@ -710,6 +863,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3080891860093044715
+  Name: "Ring - Beveled Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ring_faceted_003"
+  }
+}
+Assets {
   Id: 2915731642596610032
   Name: "Cube - bottom aligned"
   PlatformAssetType: 1
@@ -755,12 +917,48 @@ Assets {
   }
 }
 Assets {
+  Id: 2594206139171293946
+  Name: "Metal Chrome"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "chrome_001"
+  }
+}
+Assets {
+  Id: 2581868383117867733
+  Name: "Road Crosswalk"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_road_xwalk_001"
+  }
+}
+Assets {
+  Id: 2362770857979547027
+  Name: "Sphere - Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_hemisphere_001"
+  }
+}
+Assets {
   Id: 2305428502430700492
   Name: "Cone - Truncated Narrow"
   PlatformAssetType: 1
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_cone_truncated_002"
+  }
+}
+Assets {
+  Id: 2165727708636914944
+  Name: "Plastic Shiny"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_shiny_001"
   }
 }
 Assets {
@@ -779,6 +977,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ring_faceted_001"
+  }
+}
+Assets {
+  Id: 2007879719240217750
+  Name: "Invisible"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_invisible_001"
   }
 }
 Assets {
@@ -860,5 +1067,23 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_hemisphere_002"
+  }
+}
+Assets {
+  Id: 147871486563709092
+  Name: "Scifi Panel 1x4m"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_panel_1x4m_001"
+  }
+}
+Assets {
+  Id: 132672053610873933
+  Name: "Plastic Matte"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "plastic_matte_001"
   }
 }

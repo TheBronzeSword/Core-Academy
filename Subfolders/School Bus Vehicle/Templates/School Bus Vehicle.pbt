@@ -1,12 +1,12 @@
 Assets {
-  Id: 6892930352964942336
-  Name: "Tutorial UI"
+  Id: 9908588505232560248
+  Name: "School Bus Vehicle"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 9345875305527022210
+      RootId: 813307474652816615
       Objects {
-        Id: 9345875305527022210
+        Id: 813307474652816615
         Name: "TemplateBundleDummy"
         Transform {
           Location {
@@ -19,18 +19,16 @@ Assets {
             Z: 1
           }
         }
-        UnregisteredParameters {
-        }
         Collidable_v2 {
-          Value: "mc:ecollisionsetting:inheritfromparent"
+          Value: "mc:ecollisionsetting:forceon"
         }
         Visible_v2 {
-          Value: "mc:evisibilitysetting:inheritfromparent"
+          Value: "mc:evisibilitysetting:forceon"
         }
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 11434587958572521740
+              Id: 15402126830116056329
             }
           }
         }
@@ -42,9 +40,9 @@ Assets {
     }
   }
   Marketplace {
-    Id: "e61c3811aea24f0ba2e24d8c0eebe1b7"
-    OwnerAccountId: "cb055adaf34a4b72b7bd02c8ae5f3ec8"
-    OwnerName: "Gabunir"
+    Id: "b5bcf234e0b8473f866a02cb0b0c8d33"
+    OwnerAccountId: "1900990661494af699b2ac2482b8cc95"
+    OwnerName: "Ripper"
     Version: "1.1.0"
   }
   SerializationVersion: 59

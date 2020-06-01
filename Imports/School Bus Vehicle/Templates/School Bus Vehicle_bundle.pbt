@@ -1,12 +1,12 @@
 Assets {
-  Id: 8396902487721263037
-  Name: "Mystic Blade"
+  Id: 12393120508487986888
+  Name: "School Bus Vehicle"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 11624991598147668862
+      RootId: 813307474652816615
       Objects {
-        Id: 11624991598147668862
+        Id: 813307474652816615
         Name: "TemplateBundleDummy"
         Transform {
           Location {
@@ -28,7 +28,7 @@ Assets {
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 3518883255907406363
+              Id: 12450147466286168637
             }
           }
         }
@@ -40,9 +40,9 @@ Assets {
     }
   }
   Marketplace {
-    Id: "1d429a6ffde1432583b332075521f262"
-    OwnerAccountId: "2978aab6acb0467cb920cef415cc1585"
-    OwnerName: "Dadsrevenge"
+    Id: "b5bcf234e0b8473f866a02cb0b0c8d33"
+    OwnerAccountId: "1900990661494af699b2ac2482b8cc95"
+    OwnerName: "Ripper"
     Version: "1.1.0"
   }
   SerializationVersion: 59
