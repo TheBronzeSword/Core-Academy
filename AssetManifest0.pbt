@@ -1034,15 +1034,6 @@ Assets {
   }
 }
 Assets {
-  Id: 738987366638132172
-  Name: "Wood Planks Beveled Painted 01"
-  PlatformAssetType: 2
-  PrimaryAsset {
-    AssetType: "MaterialAssetRef"
-    AssetId: "mi_wood_bevel_planks_white_001_uv"
-  }
-}
-Assets {
   Id: 659547049175455346
   Name: "Text 03: N"
   PlatformAssetType: 1
