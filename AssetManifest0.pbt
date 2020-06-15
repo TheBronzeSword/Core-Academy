@@ -53,6 +53,24 @@ Assets {
   }
 }
 Assets {
+  Id: 17661385496642786304
+  Name: "Pyramid - 4-Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pyramid_001"
+  }
+}
+Assets {
+  Id: 17616555706524180168
+  Name: "Fantasy Pommel 02"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_weap_fan_pommel_002"
+  }
+}
+Assets {
   Id: 17609149353171719671
   Name: "Cube - bottom aligned"
   PlatformAssetType: 1
@@ -161,6 +179,15 @@ Assets {
   }
 }
 Assets {
+  Id: 16131503078867448818
+  Name: "Street Post Round 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_st_post_lights_post_round_001"
+  }
+}
+Assets {
   Id: 15784135859905454649
   Name: "Human Gal"
   PlatformAssetType: 17
@@ -230,6 +257,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_ts_gen_whitebox_stairs_001"
+  }
+}
+Assets {
+  Id: 14806354003253326624
+  Name: "Craftsman Part - Window 01"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_urb_sub_craftsman_part_window_001"
   }
 }
 Assets {
@@ -311,6 +347,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "sm_panel_1x3m_angledL_001"
+  }
+}
+Assets {
+  Id: 13629958479359906438
+  Name: "Cylinder - Rounded Bottom-Aligned"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_cylinder_rounded_001"
   }
 }
 Assets {
@@ -530,6 +575,15 @@ Assets {
   }
 }
 Assets {
+  Id: 10954072667945334958
+  Name: "Ball"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_sphere_001"
+  }
+}
+Assets {
   Id: 10928717001540809199
   Name: "Text 01: 8"
   PlatformAssetType: 1
@@ -683,6 +737,15 @@ Assets {
   }
 }
 Assets {
+  Id: 7516257627012008757
+  Name: "Pipe - Half"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_half-pipe_001"
+  }
+}
+Assets {
   Id: 7138879705433799790
   Name: "Computer Stand"
   PlatformAssetType: 1
@@ -800,6 +863,15 @@ Assets {
   }
 }
 Assets {
+  Id: 4191189716791684405
+  Name: "Pipe - Thick"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_pipe_004"
+  }
+}
+Assets {
   Id: 4050437425243511619
   Name: "Wood Raw"
   PlatformAssetType: 2
@@ -836,6 +908,15 @@ Assets {
   }
 }
 Assets {
+  Id: 3433416882178080463
+  Name: "Street Sign - Rectangle"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_street-sign_rectangle_001"
+  }
+}
+Assets {
   Id: 3259288283879402813
   Name: "Metal Gold 01"
   PlatformAssetType: 2
@@ -851,6 +932,15 @@ Assets {
   PrimaryAsset {
     AssetType: "StaticMeshAssetRef"
     AssetId: "F1_Text_031"
+  }
+}
+Assets {
+  Id: 3196326346746062592
+  Name: "Whitebox Wall 01 Half - Window Slot 1x"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_ts_gen_whitebox_wall_001_winHalfSlot1x"
   }
 }
 Assets {
