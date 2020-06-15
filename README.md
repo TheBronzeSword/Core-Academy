@@ -1,7 +1,7 @@
 # Core-Academy
 A virtual classroom space in Core, intended to be a hub for educational projects.
 
-![Core Academy Exterior](Screenshots\CoreAcademy.png)
+![Core Academy Exterior](Screenshots/CoreAcademy.png)
 
 ## Features
 - Computer desk, complete with monitor, keyboard, papers, notebook, pencil
